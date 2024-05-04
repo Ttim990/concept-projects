@@ -1,4 +1,5 @@
 ### CGPA CALCULATOR
+
 This C++ program can perform two functions, you can enter any number of subject scores
 Each with the corresponding Credit Units(CUs), And the program will calculate the CGPA.
 Secondly you can enter a Current CGPA, plus the total number of Credit Units for that course,
@@ -12,9 +13,13 @@ THE GRADING POINT ALLOCATION: { (80-100): 5.0, (75-79.9):4.5, (70-74.9): 4.0, (6
 
 
 #### Features:   
+
 The program is built using functions
+
 getGradePoint( mark or score): Returns the grade point corresponding to a given mark or score entered as an argument
-getCGPA(args) : This function has two overloads.
+
+getCGPA(args) : This function has two overloads
+
                 The first overload takes in two vectors, one for the marks and the other 
                 for the corresponding credit Units (CUs) and returns the calculated CGPA. this overload is used in the                             case when the CGPA is determined from the beginning i.e. no current CGPA.
                 The second overload takes in two more arguments, the current CGPA and the total number of Cedit Units                              used to determine the current CGPA. these on addition to the two vectors from the previous overload.
@@ -24,13 +29,16 @@ CGPA_Calculator():  This function performs all the necessary logic and prompting
 
 
 #### Usage:  
+
 The program prompts for user input at various stages of the program in the console window where the data is 
 entered, separated by spaces.
 
 
 #### Contributions:  
+
 Contributions to this code are welcome. follow the procedures on github to contibute to this code.
 
 #### License: 
+
 This project is licensed under the MIT License -see the [LICENSE](LICENSE)
 
