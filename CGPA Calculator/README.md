@@ -1,5 +1,5 @@
-# CGPA CALCULATOR
-his C++ program can perform two functions, you can enter any number of subject scores
+### CGPA CALCULATOR
+This C++ program can perform two functions, you can enter any number of subject scores
 Each with the corresponding Credit Units(CUs), And the program will calculate the CGPA.
 Secondly you can enter a Current CGPA, plus the total number of Credit Units for that course,
 and you can then enter any more subject scores and CUs to get the cummulative average.
