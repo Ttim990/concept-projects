@@ -1,8 +1,8 @@
 #TITLE:         CGPA CALCULATOR
-#DESCRIPTION:   THIS C++ PROGRAM CAN PERFORMS TWO FUNCTIONS, YOU CAN ENTER ANY NUMBER OF SUBJECT SCORES
-                EACH WITH THE CORRESPONDING CREDIT UNITS(CUs), AND THE PROGRAM WILL CALCULATE THE CGPA.
-                SECONDLY YOU CAN ENTER A CURRENT CGPA, PLUS THE TOTAL NUMBER OF CREDIT UNITS FOR THAT CGPA,
-                AND YOU CAN THEN ENTER ANY MORE SUBJECTS AND (CUs) TO GET THE CUMMULATIVE AVERAGE.
+#DESCRIPTION:   This C++ program can perform two functions, you can enter any number of subject scores
+                Each with the corresponding Credit Units(CUs), And the program will calculate the CGPA.
+                Secondly you can enter a Current CGPA, plus the total number of Credit Units for that course,
+                and you can then enter any more subject scores and CUs to get the cummulative average.
 
                 THE MAXIMUM GRADE POINT USED IS 5.0
 
