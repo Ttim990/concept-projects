@@ -11,9 +11,8 @@ THE GRADING POINT ALLOCATION: { (80-100): 5.0, (75-79.9):4.5, (70-74.9): 4.0, (6
                                 (40-44.9): 1.0, (35-39.9): 0.5, (0-34.9): 0.0}
 
 
-# Features:   
-The program is built using functions;
-
+#### Features:   
+The program is built using functions
 getGradePoint( mark or score): Returns the grade point corresponding to a given mark or score entered as an argument
 getCGPA(args) : This function has two overloads.
                 The first overload takes in two vectors, one for the marks and the other 
@@ -24,14 +23,14 @@ CGPA_Calculator():  This function performs all the necessary logic and prompting
                     to run.
 
 
-# Usage:  
+#### Usage:  
 The program prompts for user input at various stages of the program in the console window where the data is 
 entered, separated by spaces.
 
 
-# Contributions:  
+#### Contributions:  
 Contributions to this code are welcome. follow the procedures on github to contibute to this code.
 
-# License: 
+#### License: 
 This project is licensed under the MIT License -see the [LICENSE](LICENSE)
 
